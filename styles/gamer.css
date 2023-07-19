@@ -96,8 +96,15 @@ nav li a {
     margin-top: 30px;
     height: 50px;
     width: 150px;
+    text-decoration: none;
 }
 
+#background {
+    background-image: url('/images/Group 14.png');
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+  }
 .goat-content {
     padding-left: 150px;
     width: 901px;
@@ -120,6 +127,7 @@ nav li a {
 }
 
 .go {
+    text-decoration: none;
     border-radius: 48px;
     color: #FFF;
     font-size: 20px;
